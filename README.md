@@ -43,27 +43,6 @@
 
     ## 🚀 How to Use This Repository
 
-    1. Clone the repository:
-    ```bash
-    git clone https://github.com/OmJejurkar/DVST.git
-
-    📈 Sample Visualizations
-    Here are some examples of the types of visualizations you will create:
-
-    Bar Charts: Compare categorical data.
-    Line Charts: Show trends over time.
-    Scatter Plots: Explore relationships between variables.
-    Heatmaps: Visualize correlations.
-    Dashboards: Create interactive and dynamic visualizations.
-
-    🤝 Contributions
-    Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
-
-    📧 Contact
-    For any queries or feedback, feel free to reach out:
-
-    Email: jejurkarom24@gmail.com
-    GitHub: OmJejurkar
-
-    🌟 Acknowledgments
-    Special thanks to our instructors and peers for their guidance and support throughout this journey.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/USERNAME/REPOSITORY_NAME.git
